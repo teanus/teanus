@@ -28,7 +28,7 @@ I am a Web-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :man_technologist: Learning C++ for large applications
 
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-send-blue?style=flat&logo=Telegram&logoColor=white)](t.me/teanus)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-send-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/teanus)
 
 ---
 
