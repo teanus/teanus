@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Dmitry Hiddleston</h1>
 <h3 align="center">Junior developer living in Kazakhstan</h3>
-<img align="right" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" widht="400px" height="400px">
+<img align="right" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teanus&label=Profile%20views&color=0e75b6&style=flat" alt="teanus" /> </p>
 
