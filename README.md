@@ -1,4 +1,4 @@
-<img align='center' src="https://www.seoclerk.com/pics/623349-1zrUim1534228832.jpg" height='500'>
+<img align='center' src="https://www.seoclerk.com/pics/623349-1zrUim1534228832.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Dmitry Hiddleston</h1>
